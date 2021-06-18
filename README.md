@@ -5,8 +5,8 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1009173470@qq.com    
-* 专 业：智慧城市 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 手 机：13720520956 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1009173470@qq.com    
+* 专 业：智慧城市 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：Java大数据/云计算
 
 ## 工作及教育经历
     
@@ -24,11 +24,6 @@
 * 熟悉使用主流的关系型数据库, 如MySQL、Oracle, 有过SQL语句调优经验
 * 熟悉HTML、 CSS、 JQuery、 NodeJs、Vue 等前端技术
 * 熟悉git、Linux操作系统
-
-## 项目经历
-项目名称:海淘电商系统
-
-
 
 ## 研究经历
 
