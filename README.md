@@ -1,73 +1,57 @@
  <center>
-     <h1>XXX</h1>
+     <h1>张楷文</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
+* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1009173470@qq.com    
+* 专 业：智慧城市 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
-
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+    
+* 卡耐基梅隆大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2020.12&emsp;&emsp;&emsp;&emsp;土木工程（智慧城市）-研究生         
+* 加州大学圣地亚哥分校&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.6&emsp;&emsp;&emsp;&emsp; 地球科学-本科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟练使用 Java,包括多线程、集合等基础框架
+* 掌握Python、SQL, 了解R、JavaScript、C++等编程语言
+* 熟练掌握基础数据结构和算法的基本原理
+* 熟练掌握SpringMVC、Spring、MyBatisSpring等主流开源框架, 以及Gradle、Maven等项目构建工具
+* 熟练掌握Numpy、Scipy、Pandas、Scikit-Learn等Python科学计算生态工具包进行数据清洗、数据分析和可视化
+* 熟悉机器学习常见算法, 如随机森林、决策树、线性回归、K-means算法、朴素贝叶斯
+* 熟悉使用主流的关系型数据库, 如MySQL、Oracle, 有过SQL语句调优经验
+* 熟悉HTML、 CSS、 JQuery、 NodeJs、Vue 等前端技术
+* 熟悉git、Linux操作系统
 
 ## 项目经历
+项目名称:海淘电商系统
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+
+## 研究经历
+
+1. 卡耐基梅隆大学(CMU) - 匹兹堡, 美国 
+    * 研究助理, 土木与环境学院 2020.9- 2021.1 
+    * 从宾夕法尼亚州交通管理局(PennDOT)网页爬取车辆事故记录并进行数据归档
+    * 对超过三千万个宾夕法尼亚州原始车辆检修数据进行清洗与展示, 标记出逾期未检测的车辆
+    * 利用机器学习的方法研究车载自诊断系统数据(OBD),并预测出车辆故障可能性, 成功率达到59.7%
+
+2. 卡耐基梅隆大学(CMU) - 匹兹堡, 美国
+    * 研究助理, INFRALab  2020.4- 2020.9
+    * 通过深度传感器所组成的人像识别系统自动统计室内人数, 并且自动调节室内灯光空调等设备进行节能
+    * 通过自动调节办公室内电器能耗, 降低每日电力用量40%
+    * 将深度传感器识别结果与视频结果进行比对, 检验人像识别系统的准确率, 并通过系统分析识别错误原因
+    * 通过Python Matplotlib进行数据展示, 展现错误高发时段以及室内能耗与人员数量的关系
+    * 利用Probabilistic Fusion算法来修正室内人数统计系统的错误, 减少错误发生概率80%
+
 
 ## 获奖经历
 * XXX 优秀新人
 * XXX 学生社团优秀干部
 * 竞赛 XXX 奖
 
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
-
 ## 其他信息 
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢跳舞，做个主持人 等等 
-
-> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
-
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
-
-<a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
-
-# 公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
-
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
-
-<a name="公众号"></a>
-
-![](https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-
